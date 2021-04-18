@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\germano.GERMANO-PC\AppData\local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\germano.GERMANO-PC\AppData\local\JetBrains\Rider2020.2\resharper-host\local\Transient\Rider\v202\SolutionCaches\_air-sea-battle.1541617422.00" t="ExcludeRecursive" />
+    <e p="C:\Users\germano.GERMANO-PC\Documents\Mediatonic\air-sea-battle" t="IncludeRecursive">
+      <e p="air-sea-battle.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Components" t="Include">
+            <e p="AirplaneAuthoringComponent.cs" t="Include" />
+            <e p="AirplaneComponent.cs" t="Include" />
+            <e p="BulletAuthoringComponent.cs" t="Include" />
+            <e p="BulletComponent.cs" t="Include" />
+            <e p="GizmoAuthoringComponent.cs" t="Include" />
+            <e p="GizmoComponent.cs" t="Include" />
+            <e p="GunAuthoringComponent.cs" t="Include" />
+            <e p="GunComponent.cs" t="Include" />
+            <e p="IsMoving.cs" t="Include" />
+            <e p="MaterialReferencesAuthoring.cs" t="Include" />
+            <e p="MovableComponent.cs" t="Include" />
+            <e p="PrefabReferencesAuthoringComponent.cs" t="Include" />
+            <e p="PrefabReferencesComponent.cs" t="Include" />
+          </e>
+          <e p="Controllers" t="Include">
+            <e p="CameraController.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="ScoreController.cs" t="Include" />
+            <e p="SoundController.cs" t="Include" />
+            <e p="TimeController.cs" t="Include" />
+            <e p="UIController.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="ConfigurationLoader.cs" t="Include" />
+          </e>
+          <e p="Systems" t="Include">
+            <e p="AirplaneMovementSystem.cs" t="Include" />
+            <e p="AirplaneRecycleSystem.cs" t="Include" />
+            <e p="BulletCollisionSystem.cs" t="Include" />
+            <e p="BulletMovementSystem.cs" t="Include" />
+            <e p="BulletResetSystem.cs" t="Include" />
+            <e p="EndGameSystem.cs" t="Include" />
+            <e p="GizmoSystem.cs" t="Include" />
+            <e p="GunSystem.cs" t="Include" />
+            <e p="MovementSystem.cs" t="Include" />
+            <e p="SetupAirplaneSystem.cs" t="Include" />
+            <e p="SetupBulletSystem.cs" t="Include" />
+            <e p="SetupGunSystem.cs" t="Include" />
+            <e p="SetupWavesSystem.cs" t="Include" />
+            <e p="SpawnerSystem.cs" t="Include" />
+          </e>
+          <e p="Util" t="Include">
+            <e p="ReferenceUtil.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="GradientUnlit.shader" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
